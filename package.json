@@ -1,0 +1,23 @@
+{
+  "name": "otus-git-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyOsipuk/otus-git-repo-23-03.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreyOsipuk/otus-git-repo-23-03/issues"
+  },
+  "homepage": "https://github.com/AndreyOsipuk/otus-git-repo-23-03#readme",
+  "devDependencies": {
+    "husky": "^8.0.3"
+  }
+}
